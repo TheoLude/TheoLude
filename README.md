@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @TheoLude
+- 👀 I’m interested in PHP, JS, Python and all stuffs about developement and web developement. I'm also engaged about environnement and social changes for a better world.
+- 📫 You can reach me by phone if you know me in private :)
+- ⚡ Fun fact: i'm the father of modeliXe an old template engine for PHP
